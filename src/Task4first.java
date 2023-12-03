@@ -1,4 +1,4 @@
-public class Task3first {
+public class Task4first {
     public static void main(String[] args) {
         int i = 1;
 
